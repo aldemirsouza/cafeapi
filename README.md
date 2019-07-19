@@ -11,7 +11,7 @@
 
 ###### CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
-CaféApi Library é um pequeno conjunto de classes desenvolvidas na formação Full Stack PHP Developer da UpInside para integração ao webservice de uma plataforma SaaS desenvolvida no curso.
+CaféApi Library é um pequeno conjunto de classes desenvolvidas na formação Full Stack PHP Developer para integração ao webservice de uma plataforma SaaS.
 
 Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 
@@ -49,7 +49,7 @@ Para mais detalhes sobre como usar, veja uma pasta de exemplo no diretório do c
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Me;
+use AldemirSouza\CafeApi\Me;
 
 $me = new Me(
     "suaapi.url.com",
@@ -62,11 +62,11 @@ $user = $me->me();
 
 //update
 $user->update([
-    "first_name" => "Robson",
-    "last_name" => "Leite",
+    "first_name" => "Aldemir",
+    "last_name" => "Souza",
     "genre" => "male",
-    "datebirth" => "1980-01-02",
-    "document" => "888888888"
+    "datebirth" => "1987-19-06",
+    "document" => "999999999"
 ]);
 
 //photo
@@ -164,8 +164,8 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/aldemirsouza) (Developer)
-- [UpInside Treinamentos](https://github.com/aldemirsouza) (Team)
+- [Aldemir Souza](https://github.com/aldemirsouza) (Web Developer)
+- [Studio Syso](https://github.com/aldemirsouza) (Team)
 - [All Contributors](https://github.com/aldemirsouza/cafeapi/contributors) (This Rock)
 
 ## License

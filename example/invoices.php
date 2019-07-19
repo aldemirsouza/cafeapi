@@ -2,7 +2,7 @@
 require __DIR__ . "/assets/config.php";
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Invoices;
+use AldemirSouza\CafeApi\Invoices;
 
 $invoices = new Invoices(
     "localhost/fsphp/cafeapi/",

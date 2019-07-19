@@ -1,10 +1,10 @@
 <?php
 
-namespace RobsonVLeite\CafeApi;
+namespace AldemirSouza\CafeApi;
 
 /**
  * Class Wallets
- * @package RobsonVLeite\CafeApi
+ * @package AldemirSouza\CafeApi
  */
 class Wallets extends CafeApi
 {

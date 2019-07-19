@@ -2,7 +2,7 @@
 require __DIR__ . "/assets/config.php";
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Subscriptions;
+use AldemirSouza\CafeApi\Subscriptions;
 
 $subscription = new Subscriptions(
     "localhost/fsphp/cafeapi/",

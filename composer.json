@@ -1,21 +1,21 @@
 {
-  "name": "robsonvleite/cafeapi",
+  "name": "aldemirsouza/cafeapi",
   "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
   "keywords": [
     "FSPHP",
     "UpInside",
-    "Robson V. Leite",
+    "Aldemir Souza",
     "SaaS",
     "PHP",
     "Full Stack"
   ],
-  "homepage": "https://www.upinside.com.br",
+  "homepage": "https://www.studiosyso.com.br",
   "license": "MIT",
   "authors": [
     {
-      "name": "Robson V. Leite",
-      "email": "cursos@upinside.com.br",
-      "role": "Developer"
+      "name": "Aldemir Souza",
+      "email": "aldemmir17b@hotmail.com",
+      "role": "Web Developer"
     }
   ],
   "require": {
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RobsonVLeite\\CafeApi\\": "src"
+      "AldemirSouza\\CafeApi\\": "src"
     }
   }
 }
