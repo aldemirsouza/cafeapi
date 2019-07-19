@@ -164,7 +164,9 @@ Thank you
 
 ## Credits
 
-- [Aldemir Souza](https://github.com/aldemirsouza) (Web Developer)
+- [Robson V. Leite](https://github.com/robsonvleite) (Developer)
+- [Aldemir Souza](https://github.com/aldemirsouza) (Developer)
+- [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
 - [Studio Syso](https://github.com/aldemirsouza) (Team)
 - [All Contributors](https://github.com/aldemirsouza/cafeapi/contributors) (This Rock)
 
